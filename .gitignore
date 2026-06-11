@@ -1,0 +1,9 @@
+# Ignore the compiled Windows executable binary
+*.exe
+main
+
+# Ignore local database vaults containing actual secrets
+data.txt
+
+# Ignore VS Code configuration and debug folders
+.vscode/
