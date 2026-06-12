@@ -1,4 +1,4 @@
-#C++ File Cryptosystem
+# C++ File Cryptosystem
 A low level console-based file processing application built in C++.
 This application demonstrates the core mechanics of symmetric-key cryptrography and secure file I/O.
 
